@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Prueba Liverpool</string>
+    <string name="title_login">Bienvenido al chat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="text_hint_email">Ingresa tu email</string>
+    <string name="text_login">Iniciar sesión</string>
+    <string name="text_hint_password">Ingresa tu password</string>
+    <string name="title_user_profile">Perfil de usuario</string>
+    <string name="title_chats">Lista de chats</string>
 </resources>
